@@ -1,0 +1,14 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+.DS_Store
+Thumbs.db
+
+# Private/raw data
+data/raw/
+
+# Local outputs
+output/
+outputs/
